@@ -32,4 +32,3 @@ A clean, structured dataset ready for modeling or visualization.
 
 ---
 
-> Submitted as part of Data Analyst Internship Task 1.
